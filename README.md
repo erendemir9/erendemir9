@@ -18,10 +18,10 @@
 
 ## 📂 Projects
 
+🔹 **War Card Game (Java Swing)** – GUI-based card game with user accounts and game modes.
+🔹 **Parallel Task Manager (C++)** – Multithreaded system for executing concurrent tasks.  
 🔹 **Bank Account Management System (C++)** – Console banking system with deposit, withdraw, and account operations.  
 🔹 **Shipping Company (Java)** – Console logistics app calculating volume, weight, and shipping cost.  
-🔹 **Parallel Task Manager (C++)** – Multithreaded system for executing concurrent tasks.  
-🔹 **War Card Game (Java Swing)** – GUI-based card game with user accounts and game modes.
 
 ---
 
