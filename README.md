@@ -13,7 +13,7 @@
 - **Big Data:** Hadoop  
 - **OS & Tools:** Linux, Virtual Machines  
 - **Concepts:** OOP, Parallel Programming, Threads
-
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erendemir9&layout=compact&theme=radical)  
 ---
 
 ## 📂 Projects
@@ -22,13 +22,6 @@
 🔹 **Shipping Company (Java)** – Console logistics app calculating volume, weight, and shipping cost.  
 🔹 **Parallel Task Manager (C++)** – Multithreaded system for executing concurrent tasks.  
 🔹 **War Card Game (Java Swing)** – GUI-based card game with user accounts and game modes.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erendemir9&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erendemir9&layout=compact&theme=radical)  
 
 ---
 
