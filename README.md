@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Halil Eren Demir
 
-🎓 Software Engineering student at the University of Europe for Applied Sciences (Berlin-Potsdam)  
+🎓 Software Engineering student at the University of Europe for Applied Sciences (Berlin-Potsdam).  
+💻 Currently working as a Full Stack Developer Intern at A-Maximus Startup.  
 💡 Passionate about backend development, database systems, and building scalable software.  
 🚀 Currently learning REST API development and cloud technologies.
 
