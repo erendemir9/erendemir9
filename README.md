@@ -15,24 +15,6 @@ My interests span **mobile development, full-stack web development, backend syst
 
 ---
 
-## 🚀 What I'm Working On
-
-### 🌐 A-Maximus
-
-Working as a **Full Stack Engineer Intern** across production web projects including:
-
-- **A-Maximus**
-- **DHSociety**
-- **A-Maximus Events**
-
-My work involves improving existing applications, implementing features, fixing UI and functionality issues, working with Git-based development workflows, and contributing to production-oriented web projects.
-
-**Technologies & workflow:**
-
-`JavaScript` · `HTML` · `CSS` · `Git` · `GitHub` · `Vite` · `Firebase` · `Netlify`
-
----
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
@@ -93,6 +75,23 @@ Relational Database Design · Authentication · REST APIs · Local Persistence �
 
 ---
 
+## 🚀 What I'm Working On
+
+### 🌐 A-Maximus
+
+Working as a **Full Stack Engineer Intern** across production web projects including:
+
+- **A-Maximus**
+- **DHSociety**
+- **A-Maximus Events**
+
+My work involves improving existing applications, implementing features, fixing UI and functionality issues, working with Git-based development workflows, and contributing to production-oriented web projects.
+
+**Technologies & workflow:**
+
+`JavaScript` · `HTML` · `CSS` · `Git` · `GitHub` · `Vite` · `Firebase` · `Netlify`
+
+---
 ## 📂 Featured Projects
 
 ### 🏋️ Gym Management System
